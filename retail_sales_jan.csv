@@ -1,0 +1,104 @@
+TransactionID,Date,StoreID,ProductID,ProductCategory,QuantitySold,UnitPrice,PaymentMethod,CustomerType,City,TotalAmount
+1100,2025-01-06,6,230,Home Decor,6,344.81,Wallet,Returning,Hyderabad,2068.86
+1101,2025-01-05,9,320,Home Decor,9,423.29,Wallet,New,Hyderabad,3809.61
+1102,2025-01-20,6,203,Home Decor,7,126.74,UPI,Returning,Bangalore,887.18
+1103,2025-01-20,1,454,Home Decor,5,384.52,Card,Returning,Bangalore,1922.6
+1104,2025-01-24,1,366,Groceries,3,50.96,UPI,New,Bangalore,152.88
+1105,2025-01-26,2,282,Home Decor,5,643.4,Wallet,Returning,Bangalore,3217.0
+1106,2025-01-25,8,452,Home Decor,1,240.26,UPI,Returning,Pune,240.26
+1107,2025-01-10,7,438,Sports,1,643.86,Cash,Returning,Hyderabad,643.86
+1108,2025-01-03,3,298,Home Decor,4,355.38,Card,New,Delhi,1421.52
+1109,2025-01-03,5,294,Groceries,5,94.95,Card,New,Pune,474.75
+1110,2025-01-09,6,427,Sports,4,737.2,UPI,New,Delhi,2948.8
+1111,2025-01-18,3,276,Sports,2,771.29,Wallet,New,Delhi,1542.58
+1112,2025-01-29,5,154,Electronics,3,435.99,UPI,New,Hyderabad,1307.97
+1113,2025-01-07,3,115,Home Decor,6,719.12,Cash,New,Delhi,4314.72
+1114,2025-01-27,5,489,Home Decor,5,606.09,Card,,Pune,3030.4500000000003
+1115,2025-01-05,8,270,Electronics,1,971.09,UPI,Returning,Mumbai,971.09
+1116,2025-01-22,8,120,Home Decor,9,338.68,Cash,New,Hyderabad,3048.12
+1117,2025-01-24,2,218,Clothing,3,348.07,Card,Returning,Mumbai,1044.21
+1118,2025-01-05,8,378,Electronics,4,265.14,UPI,New,Hyderabad,1060.56
+1119,2025-01-11,1,497,Groceries,5,688.72,Card,New,Delhi,3443.6000000000004
+1120,2025-01-20,7,214,Groceries,5,789.98,Cash,Returning,Bangalore,3949.9
+1121,2025-01-11,8,197,Groceries,9,537.03,Wallet,Returning,Mumbai,4833.2699999999995
+1122,2025-01-09,7,281,Electronics,3,634.5,Cash,New,Bangalore,1903.5
+1123,2025-01-12,2,440,Groceries,2,93.38,Wallet,New,Hyderabad,186.76
+1124,2025-01-15,1,110,Clothing,7,473.79,Card,New,Hyderabad,3316.53
+1125,2025-01-06,2,196,Sports,4,969.61,Card,New,Delhi,3878.44
+1126,2025-01-08,9,283,Electronics,9,391.58,Wallet,New,Mumbai,3524.22
+1127,2025-01-21,9,417,Sports,8,576.33,Card,New,Delhi,4610.64
+1128,2025-01-18,4,156,Sports,1,440.79,Card,New,Hyderabad,440.79
+1129,2025-01-02,9,317,Clothing,6,967.74,Card,New,Delhi,5806.4400000000005
+1130,2025-01-28,8,331,Home Decor,3,242.9,Cash,New,Pune,728.7
+1131,2025-01-26,4,196,Clothing,3,993.19,UPI,New,Mumbai,2979.57
+1132,2025-01-21,7,125,Sports,9,676.24,Card,Returning,Bangalore,6086.16
+1133,2025-01-24,6,498,Clothing,6,818.62,Wallet,,Delhi,4911.72
+1134,2025-01-01,2,241,Groceries,1,485.24,UPI,New,Delhi,485.24
+1135,2025-01-20,4,312,Clothing,6,892.94,Cash,New,Delhi,5357.64
+1136,2025-01-28,5,216,Electronics,9,557.24,Card,Returning,Bangalore,5015.16
+1137,2025-01-05,9,399,Electronics,7,598.42,Card,Returning,Hyderabad,4188.94
+1138,2025-01-15,2,234,Groceries,7,921.62,UPI,New,Mumbai,6451.34
+1139,2025-01-28,5,305,Sports,1,348.44,Wallet,Returning,Bangalore,348.44
+1140,2025-01-11,1,284,Clothing,5,739.83,Card,New,Mumbai,3699.15
+1141,2025-01-27,4,499,Electronics,8,814.97,Card,Returning,Hyderabad,6519.76
+1142,2025-01-04,3,124,Electronics,4,506.06,UPI,Returning,Bangalore,2024.24
+1143,2025-01-25,1,237,Home Decor,1,513.2,UPI,New,Pune,513.2
+1144,2025-01-14,5,299,Clothing,2,849.34,Cash,Returning,Bangalore,1698.68
+1145,2025-01-15,3,409,Electronics,7,577.75,Wallet,Returning,Mumbai,4044.25
+1146,2025-01-04,8,425,Sports,1,306.39,UPI,Returning,Hyderabad,306.39
+1147,2025-01-25,8,457,Home Decor,7,512.41,Wallet,Returning,Bangalore,3586.87
+1148,2025-01-23,9,348,Groceries,2,312.05,Wallet,Returning,Pune,624.1
+1149,2025-01-04,7,121,Home Decor,7,264.12,Wallet,Returning,Delhi,1848.8400000000001
+1150,2025-01-10,4,396,Sports,5,664.42,UPI,Returning,Mumbai,3322.1
+1151,2025-01-28,8,177,Sports,3,925.08,Wallet,Returning,Mumbai,2775.2400000000002
+1152,2025-01-16,8,319,Home Decor,6,240.45,Cash,New,Bangalore,1442.6999999999998
+1153,2025-01-27,5,277,Electronics,5,885.86,UPI,Returning,Bangalore,4429.3
+1154,2025-01-29,6,469,Electronics,7,492.52,Cash,,Bangalore,3447.64
+1155,2025-01-27,4,403,Electronics,3,738.73,Card,New,Mumbai,2216.19
+1156,2025-01-16,7,145,Sports,3,337.73,Card,Returning,Pune,1013.19
+1157,2025-01-06,9,443,Clothing,8,514.56,Cash,Returning,Delhi,4116.48
+1158,2025-01-06,1,244,Sports,6,243.49,Card,Returning,Delhi,1460.94
+1159,2025-01-05,3,334,Clothing,1,134.19,UPI,New,Delhi,134.19
+1160,2025-01-20,8,145,Groceries,8,207.41,Cash,New,Pune,1659.28
+1161,2025-01-27,8,472,Groceries,9,527.85,Wallet,Returning,Bangalore,4750.650000000001
+1162,2025-01-12,8,422,Sports,9,798.2,Cash,New,Delhi,7183.8
+1163,2025-01-12,4,402,Home Decor,9,908.42,Cash,New,Delhi,8175.78
+1164,2025-01-15,1,484,Sports,1,258.55,Cash,New,Bangalore,258.55
+1165,2025-01-01,9,163,Sports,8,751.22,Card,New,Bangalore,6009.76
+1166,2025-01-30,8,431,Electronics,3,294.91,Cash,New,Hyderabad,884.73
+1167,2025-01-11,8,135,Home Decor,1,586.0,Cash,New,Pune,586.0
+1168,2025-01-23,2,133,Groceries,8,175.81,Card,New,Delhi,1406.48
+1169,2025-01-03,2,230,Sports,2,403.48,Cash,New,Hyderabad,806.96
+1170,2025-01-14,4,183,Home Decor,2,128.71,Card,Returning,Pune,257.42
+1171,2025-01-30,1,148,Sports,6,530.44,Card,New,Pune,3182.6400000000003
+1172,2025-01-07,9,410,Groceries,2,709.69,Wallet,New,Mumbai,1419.38
+1173,2025-01-15,7,388,Home Decor,6,484.13,UPI,New,Bangalore,2904.7799999999997
+1174,2025-01-28,5,353,Electronics,7,393.21,Wallet,Returning,Delhi,2752.47
+1175,2025-01-04,6,256,Groceries,5,825.21,UPI,Returning,Hyderabad,4126.05
+1176,2025-01-20,7,155,Clothing,9,93.52,Cash,Returning,Delhi,841.68
+1177,2025-01-30,3,310,Home Decor,8,418.44,UPI,New,Hyderabad,3347.52
+1178,2025-01-04,6,387,Groceries,6,485.6,Card,Returning,Delhi,2913.6000000000004
+1179,2025-01-19,8,128,Electronics,2,748.95,Cash,New,Pune,1497.9
+1180,2025-01-14,9,322,Clothing,9,914.16,Card,Returning,Pune,8227.44
+1181,2025-01-29,5,430,Sports,1,313.54,Card,Returning,Bangalore,313.54
+1182,2025-01-13,5,236,Clothing,6,826.88,Cash,New,Mumbai,4961.28
+1183,2025-01-14,8,209,Home Decor,4,673.5,UPI,Returning,Hyderabad,2694.0
+1184,2025-01-19,8,199,Home Decor,1,60.72,Wallet,New,Mumbai,60.72
+1185,2025-01-27,5,132,Clothing,5,748.59,UPI,Returning,Hyderabad,3742.9500000000003
+1186,2025-01-29,1,108,Groceries,9,623.32,Card,Returning,Delhi,5609.88
+1187,2025-01-04,3,184,Electronics,7,696.02,Card,New,Pune,4872.139999999999
+1188,2025-01-06,1,150,Groceries,3,604.76,Cash,New,Mumbai,1814.28
+1189,2025-01-05,8,179,Sports,5,594.84,Cash,Returning,Bangalore,2974.2000000000003
+1190,2025-01-08,2,269,Electronics,4,392.97,Card,New,Mumbai,1571.88
+1191,2025-01-16,8,420,Groceries,3,960.76,UPI,Returning,Delhi,2882.2799999999997
+1192,2025-01-29,9,208,Sports,1,987.6,UPI,Returning,Bangalore,987.6
+1193,2025-01-14,5,311,Home Decor,1,417.78,Card,Returning,Bangalore,417.78
+1194,2025-01-10,1,124,Sports,5,844.37,Wallet,Returning,Bangalore,4221.85
+1195,2025-01-06,2,213,Home Decor,3,983.04,Wallet,New,Pune,2949.12
+1196,2025-01-09,9,376,Electronics,6,606.09,Wallet,New,Delhi,3636.54
+1197,2025-01-19,3,144,Sports,1,687.39,Wallet,Returning,Bangalore,687.39
+1198,2025-01-03,4,371,Groceries,1,131.94,Card,Returning,Bangalore,131.94
+1199,2025-01-29,2,258,Groceries,4,991.88,Wallet,Returning,Hyderabad,3967.52
+1198,2025-01-03,4,371,Groceries,1,131.94,Card,Returning,Bangalore,131.94
+1197,2025-01-19,3,144,Sports,1,687.39,Wallet,Returning,Bangalore,687.39
+1150,2025-01-10,4,396,Sports,5,664.42,UPI,Returning,Mumbai,3322.1
