@@ -1,14 +1,20 @@
-# ETL-Pipelines
+# Project 1: Airflow Pipeline (GCS → Airflow → BigQuery)
 
-Project 1: Airflow Pipelines(GCS--Airflow--Bigquery)
+### Objective  
+Built a simple data pipeline using Airflow to load retail sales CSV data from Google Cloud Storage (GCS) into BigQuery automatically.
 
-(GCS-->Airflow-->Bigquery)
-Here created a pipeline for practice where use retail sale data 
-steps:
+### Tools Used  
+- Google Cloud Storage  
+- BigQuery  
+- Apache Airflow  
+- Python  
 
-1:uploaded csv file in GCS
-2:write loaddatafromgcstobigquery.py file which contain code for getting csv file from gcs and load into bigquery.
-3:dag.py which automate this task i.e. here written code to run loaddatafromgcstobigquery.py file which is store in webfile under /dag folder
-4:check data is loaded successfully in bigquery or not.
+### Steps  
+1. Uploaded CSV file to GCS.  
+2. Wrote `loaddatafromgcstobigquery.py` to load data from GCS into BigQuery.  
+3. Created `dag.py` to automate the process through Airflow.  
+4. Placed both files in the `/dags` folder so Airflow can detect and run them.  
+5. Verified successful data load in BigQuery.
 
-Note : DAG.py file keep it under /dag folder so airflow can scan it also create folder to keep your python code file  /dag/{folder_name}
+### Outcome  
+Automated CSV data loading from GCS to BigQuery using Airflow scheduling.
